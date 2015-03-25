@@ -49,6 +49,14 @@ class Configuration
 	private $format        				= Client::KALTURA_SERVICE_FORMAT_XML;
 	
 	/**
+<<<<<<< HEAD
+=======
+	 * @var string
+	 */
+	private $clientTag 	  				= "php53:15-03-23";
+	
+	/**
+>>>>>>> 5c7583dca975096dbc6e1c5c98c2b2381c4016b7
 	 * @var int
 	 */
 	private $curlTimeout   				= 120;
